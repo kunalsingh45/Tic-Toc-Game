@@ -1,0 +1,16 @@
+body {
+    font: 14px "Century Gothic", Futura, sans-serif;
+    margin: 20px;
+  }
+
+.App {
+    text-align: center;
+  }
+
+.game{
+    display: flex;
+    flex-direction: row;
+    /* flex-wrap: wrap; */
+    /* width:100px */
+}
+
